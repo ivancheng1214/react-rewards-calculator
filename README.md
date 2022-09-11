@@ -18,7 +18,7 @@ Click [here](https://ivancheng1214.github.io/react-rewards-calculator/)
  
  mock api&data were written to simulate api call.
  
- made the component as light as possible by separating the business logic with custom hooks(refer src/App.js and src/hooks)
+ lightweight components by separating the business logic with custom hooks(refer src/App.js and src/hooks)
  
  
 ### Folder Structure
