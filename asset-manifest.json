@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-rewards-calculator/static/css/main.cc4e2532.css",
+    "main.js": "/react-rewards-calculator/static/js/main.80618fdd.js",
+    "static/js/787.1e572533.chunk.js": "/react-rewards-calculator/static/js/787.1e572533.chunk.js",
+    "index.html": "/react-rewards-calculator/index.html",
+    "main.cc4e2532.css.map": "/react-rewards-calculator/static/css/main.cc4e2532.css.map",
+    "main.80618fdd.js.map": "/react-rewards-calculator/static/js/main.80618fdd.js.map",
+    "787.1e572533.chunk.js.map": "/react-rewards-calculator/static/js/787.1e572533.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4e2532.css",
+    "static/js/main.80618fdd.js"
+  ]
+}
