@@ -1,0 +1,7 @@
+.transaction-item span {
+  margin-right: 8px;
+}
+
+.transaction-item span:nth-child(3) {
+  font-weight: bold;
+}

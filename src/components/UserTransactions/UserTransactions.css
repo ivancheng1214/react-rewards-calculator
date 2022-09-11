@@ -1,0 +1,9 @@
+.user-transactions {
+  margin-top: 10px;
+  width: 700px;
+}
+
+.user-transactions-header {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
