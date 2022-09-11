@@ -9,11 +9,26 @@ Click [here](https://ivancheng1214.github.io/react-rewards-calculator/)
 
 ## Help
 
+### Requirements
+ No Typescript
+ 
+ functional components + react hooks 
+ 
+ used 0 third party libraries
+ 
+ mock api&data were written to simulate api call.
+ 
+ made the component as light as possible by separating the business logic with custom hooks(refer src/App.js and src/hooks)
+ 
+ 
 ### Folder Structure
 
 src/apiClient-> mock api and data
-src/hooks -> custom hooks
+
+src/hooks -> custom react hooks
+
 src/components -> each component has its own folder along with unit test.
+
 src/utils -> all data calculation & data processing functions
 
 
