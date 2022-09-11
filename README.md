@@ -38,7 +38,7 @@ src/utils -> all data calculation & data processing functions
 ## Available Scripts
 
 ### `npm start`
-Runs the app in the development mode.\
+Runs the app in the development mode.
 
 ### `npm test`
 Run unit tests
