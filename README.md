@@ -23,6 +23,8 @@ Click [here](https://ivancheng1214.github.io/react-rewards-calculator/)
  
 ### Folder Structure
 
+src/App,js -> parent component that renders all child components 
+
 src/apiClient-> mock api and data
 
 src/hooks -> custom react hooks
