@@ -5,7 +5,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Live Demo
-Click [here](https://ivancheng1214.github.io/react-rewards-calculator/)
+Check the live demo by clicking [HERE](https://ivancheng1214.github.io/react-rewards-calculator/)
 
 ## Help
 
