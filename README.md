@@ -12,6 +12,8 @@ Check the live demo [HERE](https://ivancheng1214.github.io/react-rewards-calcula
 ### Requirements
  No Typescript
  
+ ES6/ES7 syntax
+ 
  functional components + react hooks 
  
  used 0 third party libraries
